@@ -1,0 +1,16 @@
+.retu1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+input[type="text"] {
+  width: 20%;
+}
+.harf{
+    width: 50%;
+    
+}
+form {
+    width: 60%;              /* 全体の横幅 */
+    margin: 0 auto;          /* ← これで中央 */
+}
