@@ -10,7 +10,10 @@ input[type="text"] {
     width: 50%;
     
 }
-form {
-    width: 60%;              /* 全体の横幅 */
-    margin: 0 auto;          /* ← これで中央 */
+.all{
+    width: 60%;             
+    margin: 0 auto;          
+}
+textarea{
+    height: 1em;
 }
